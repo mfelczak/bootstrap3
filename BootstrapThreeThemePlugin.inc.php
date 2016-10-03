@@ -45,6 +45,7 @@ class BootstrapThreeThemePlugin extends ThemePlugin {
 				'spacelab'   => 'plugins.themes.bootstrap3.options.bootstrapTheme.spacelab',
 				'superhero'  => 'plugins.themes.bootstrap3.options.bootstrapTheme.superhero',
 				'united'     => 'plugins.themes.bootstrap3.options.bootstrapTheme.united',
+				'vancouver'  => 'plugins.themes.bootstrap3.options.bootstrapTheme.vancouver',
 				'yeti'       => 'plugins.themes.bootstrap3.options.bootstrapTheme.yeti',
 			)
 		));
