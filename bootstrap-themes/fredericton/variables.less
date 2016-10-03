@@ -1,0 +1,38 @@
+// --------------------------------------------------
+// Fredericton 1.0.0
+// --------------------------------------------------
+
+
+//== Colors
+//
+//## Brand colors for use across Bootstrap.
+
+@gray-base:              #000;
+@gray-darker:            lighten(@gray-base, 13.5%); // #222
+@gray-dark:              lighten(@gray-base, 20%);   // #333
+@gray:                   lighten(@gray-base, 33.5%); // #555
+@gray-light:             lighten(@gray-base, 46.7%); // #777
+@gray-lighter:           lighten(@gray-base, 93.5%); // #eee
+
+@brand-primary:         #B2BB91;
+@brand-success:         #AA2620;
+@brand-info:            @gray-lighter;
+@brand-warning:         #D7BF5E;
+@brand-danger:          #590f08;
+
+
+//== Scaffolding
+//
+//## Settings for some of the most global styles.
+
+//** Background color for `<body>`.
+@body-bg:               #fff;
+//** Global text color on `<body>`.
+@text-color:            @gray;
+
+//** Global textual link color.
+@link-color:            @brand-success;
+//** Link hover color set via `darken()` function.
+@link-hover-color:      @link-color;
+//** Link hover decoration.
+@link-hover-decoration: underline;

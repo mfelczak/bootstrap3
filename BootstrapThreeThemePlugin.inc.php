@@ -34,6 +34,7 @@ class BootstrapThreeThemePlugin extends ThemePlugin {
 				'cyborg'     => 'plugins.themes.bootstrap3.options.bootstrapTheme.cyborg',
 				'darkly'     => 'plugins.themes.bootstrap3.options.bootstrapTheme.darkly',
 				'flatly'     => 'plugins.themes.bootstrap3.options.bootstrapTheme.flatly',
+				'fredericton'=> 'plugins.themes.bootstrap3.options.bootstrapTheme.fredericton',
 				'journal'    => 'plugins.themes.bootstrap3.options.bootstrapTheme.journal',
 				'lumen'      => 'plugins.themes.bootstrap3.options.bootstrapTheme.lumen',
 				'paper'      => 'plugins.themes.bootstrap3.options.bootstrapTheme.paper',
